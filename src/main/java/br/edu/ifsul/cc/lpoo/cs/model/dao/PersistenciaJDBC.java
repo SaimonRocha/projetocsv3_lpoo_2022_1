@@ -35,7 +35,7 @@ public class PersistenciaJDBC implements InterfacePersistencia{
     
     private final String DRIVER = "org.postgresql.Driver";
     private final String USER = "postgres";
-    private final String SENHA = "123456";
+    private final String SENHA = "katynhus16";
     public static final String URL = "jdbc:postgresql://localhost:5432/db_lpoo_cs_2022_1";
     private Connection con = null;
     
