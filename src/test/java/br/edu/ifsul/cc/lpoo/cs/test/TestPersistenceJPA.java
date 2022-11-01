@@ -25,7 +25,7 @@ public class TestPersistenceJPA {
     
 
     
-    @Test 
+    //@Test 
     public void testConexaoGeracaoTabelas(){
         
         PersistenciaJPA persistencia = new PersistenciaJPA();
@@ -42,7 +42,7 @@ public class TestPersistenceJPA {
         
     } 
     
-    //@Test
+    @Test
     public void testPersistenciaEndereco() throws Exception {
     
         PersistenciaJPA persistencia = new PersistenciaJPA();
